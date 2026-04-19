@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Детройт</string>
+
+    <!-- Drawer -->
+    <string name="drawer_header_title">Меню</string>
+    <string name="drawer_categories">Все категории</string>
+    <string name="drawer_about">О приложении</string>
+    <string name="drawer_settings">Настройки</string>
+
+    <!-- Categories -->
+    <string name="category_coffee">Кофейни</string>
+    <string name="category_restaurants">Рестораны</string>
+    <string name="category_parks">Парки</string>
+
+    <!-- About / Settings -->
+    <string name="about_text">Сделал Титов Михаил Б23-191-1\n\nПриложение «Детройт» — гид по городу.</string>
+    <string name="settings_text">Здесь будут настройки.</string>
+    <string name="settings_dark_mode">Тёмная тема</string>
+    <string name="settings_language">Язык</string>
+    <string name="language_english">Английский</string>
+    <string name="language_russian">Русский</string>
+
+    <!-- Place names -->
+    <string name="coffee1_name">Great Lakes Coffee</string>
+    <string name="coffee1_desc">Знаменитая обжарка в Мидтауне.</string>
+    <string name="coffee1_address">ул. Вудворд, 3965, Детройт, MI 48201</string>
+    <string name="coffee1_hours">Пн–Пт: 7:00–19:00, Сб–Вс: 8:00–18:00</string>
+
+    <string name="coffee2_name">Lucky Detroit</string>
+    <string name="coffee2_desc">Уютная кофейня в Корктауне.</string>
+    <string name="coffee2_address">ул. Трамбулл, 1701, Детройт, MI 48216</string>
+    <string name="coffee2_hours">Ежедневно: 8:00–16:00</string>
+
+    <string name="coffee3_name">Astro Coffee</string>
+    <string name="coffee3_desc">Кофе третьей волны.</string>
+    <string name="coffee3_address">ул. Мичиган, 2124, Детройт, MI 48216</string>
+    <string name="coffee3_hours">Вт–Вс: 8:00–15:00, Пн выходной</string>
+
+    <string name="coffee4_name">Dessert Oasis</string>
+    <string name="coffee4_desc">Живая музыка по вечерам.</string>
+    <string name="coffee4_address">ул. Грисволд, 1220, Детройт, MI 48226</string>
+    <string name="coffee4_hours">Пн–Чт: 7:00–22:00, Пт–Сб: 7:00–23:00, Вс: 8:00–20:00</string>
+
+    <string name="rest1_name">Selden Standard</string>
+    <string name="rest1_desc">Современная американская кухня.</string>
+    <string name="rest1_address">2-я авеню, 3921, Детройт, MI 48201</string>
+    <string name="rest1_hours">Вт–Сб: 17:00–22:00, Вс–Пн выходной</string>
+
+    <string name="rest2_name">Slows Bar BQ</string>
+    <string name="rest2_desc">Культовое барбекю.</string>
+    <string name="rest2_address">ул. Мичиган, 2138, Детройт, MI 48216</string>
+    <string name="rest2_hours">Вс–Чт: 11:00–21:00, Пт–Сб: 11:00–22:00</string>
+
+    <string name="rest3_name">Dime Store</string>
+    <string name="rest3_desc">Лучший бранч в городе.</string>
+    <string name="rest3_address">ул. Грисволд, 719, Детройт, MI 48226</string>
+    <string name="rest3_hours">Ежедневно: 8:00–15:00</string>
+
+    <string name="rest4_name">Buddy\'s Pizza</string>
+    <string name="rest4_desc">Детройтская квадратная пицца.</string>
+    <string name="rest4_address">ул. Конант, 17125, Детройт, MI 48212</string>
+    <string name="rest4_hours">Вс–Чт: 11:00–21:00, Пт–Сб: 11:00–22:00</string>
+
+    <string name="park1_name">Бель-Айл</string>
+    <string name="park1_desc">Остров-парк с аквариумом.</string>
+    <string name="park1_address">Остров Бель-Айл, Детройт, MI 48207</string>
+    <string name="park1_hours">Ежедневно: 5:00–22:00</string>
+
+    <string name="park2_name">РиверВок</string>
+    <string name="park2_desc">Набережная 5.5 км.</string>
+    <string name="park2_address">ул. Атуотер, 1340, Детройт, MI 48207</string>
+    <string name="park2_hours">Круглосуточно</string>
+
+    <string name="park3_name">Кампус Мартиус</string>
+    <string name="park3_desc">Центральный парк с катком.</string>
+    <string name="park3_address">ул. Вудворд, 800, Детройт, MI 48226</string>
+    <string name="park3_hours">Ежедневно: 6:00–23:00</string>
+
+    <string name="park4_name">Парк штата Милликен</string>
+    <string name="park4_desc">Парк с маяком.</string>
+    <string name="park4_address">ул. Атуотер, 1900, Детройт, MI 48207</string>
+    <string name="park4_hours">Ежедневно: 6:00–22:00</string>
+</resources>
