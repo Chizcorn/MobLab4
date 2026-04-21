@@ -1,3 +1,83 @@
 <resources>
-    <string name="app_name">MobLab4</string>
+    <string name="app_name">Detroit</string>
+
+    <!-- Drawer -->
+    <string name="drawer_header_title">Menu</string>
+    <string name="drawer_categories">All Categories</string>
+    <string name="drawer_about">About</string>
+    <string name="drawer_settings">Settings</string>
+
+    <!-- Categories -->
+    <string name="category_coffee">Coffee Shops</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_parks">Parks</string>
+
+    <!-- About / Settings -->
+    <string name="about_text">Made by Mikhail Titov B23-191-1\n\nDetroit City Guide.</string>
+    <string name="settings_text">Settings will be here.</string>
+    <string name="settings_dark_mode">Dark Mode</string>
+    <string name="settings_language">Language</string>
+    <string name="language_english">English</string>
+    <string name="language_russian">Russian</string>
+
+    <!-- Place names -->
+    <string name="coffee1_name">Great Lakes Coffee</string>
+    <string name="coffee1_desc">Famous roastery in Midtown.</string>
+    <string name="coffee1_address">3965 Woodward Ave, Detroit, MI 48201</string>
+    <string name="coffee1_hours">Mon–Fri: 7:00–19:00, Sat–Sun: 8:00–18:00</string>
+
+    <string name="coffee2_name">Lucky Detroit</string>
+    <string name="coffee2_desc">Cozy cafe in Corktown.</string>
+    <string name="coffee2_address">1701 Trumbull Ave, Detroit, MI 48216</string>
+    <string name="coffee2_hours">Daily: 8:00–16:00</string>
+
+    <string name="coffee3_name">Astro Coffee</string>
+    <string name="coffee3_desc">Third wave coffee spot.</string>
+    <string name="coffee3_address">2124 Michigan Ave, Detroit, MI 48216</string>
+    <string name="coffee3_hours">Tue–Sun: 8:00–15:00, Mon closed</string>
+
+    <string name="coffee4_name">Dessert Oasis</string>
+    <string name="coffee4_desc">Live music in the evenings.</string>
+    <string name="coffee4_address">1220 Griswold St, Detroit, MI 48226</string>
+    <string name="coffee4_hours">Mon–Thu: 7:00–22:00, Fri–Sat: 7:00–23:00, Sun: 8:00–20:00</string>
+
+    <string name="rest1_name">Selden Standard</string>
+    <string name="rest1_desc">Modern American cuisine.</string>
+    <string name="rest1_address">3921 2nd Ave, Detroit, MI 48201</string>
+    <string name="rest1_hours">Tue–Sat: 17:00–22:00, Sun–Mon closed</string>
+
+    <string name="rest2_name">Slows Bar BQ</string>
+    <string name="rest2_desc">Iconic BBQ in Corktown.</string>
+    <string name="rest2_address">2138 Michigan Ave, Detroit, MI 48216</string>
+    <string name="rest2_hours">Sun–Thu: 11:00–21:00, Fri–Sat: 11:00–22:00</string>
+
+    <string name="rest3_name">Dime Store</string>
+    <string name="rest3_desc">Best brunch in town.</string>
+    <string name="rest3_address">719 Griswold St #180, Detroit, MI 48226</string>
+    <string name="rest3_hours">Daily: 8:00–15:00</string>
+
+    <string name="rest4_name">Buddy\'s Pizza</string>
+    <string name="rest4_desc">Home of Detroit-style square pizza.</string>
+    <string name="rest4_address">17125 Conant St, Detroit, MI 48212</string>
+    <string name="rest4_hours">Sun–Thu: 11:00–21:00, Fri–Sat: 11:00–22:00</string>
+
+    <string name="park1_name">Belle Isle</string>
+    <string name="park1_desc">Island park with aquarium.</string>
+    <string name="park1_address">Belle Isle, Detroit, MI 48207</string>
+    <string name="park1_hours">Daily: 5:00–22:00</string>
+
+    <string name="park2_name">RiverWalk</string>
+    <string name="park2_desc">5.5 km scenic waterfront.</string>
+    <string name="park2_address">1340 Atwater St, Detroit, MI 48207</string>
+    <string name="park2_hours">Open 24 hours</string>
+
+    <string name="park3_name">Campus Martius</string>
+    <string name="park3_desc">Central park with ice rink.</string>
+    <string name="park3_address">800 Woodward Ave, Detroit, MI 48226</string>
+    <string name="park3_hours">Daily: 6:00–23:00</string>
+
+    <string name="park4_name">Milliken State Park</string>
+    <string name="park4_desc">Park with lighthouse.</string>
+    <string name="park4_address">1900 Atwater St, Detroit, MI 48207</string>
+    <string name="park4_hours">Daily: 6:00–22:00</string>
 </resources>
